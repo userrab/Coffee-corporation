@@ -1,1 +1,2 @@
 # Coffee-corporation
+Hello all! To run my code you simply have to run the main method. I have different classes of ingredients such as With Sugar, with milk, etc. These classes are the different coffee decorators that can be added to the coffee. I also have a coffee decorator class that interfaces all of those ingredients while, calculating the total, and updating the list. I have a statictics class that is in charge of all the calculations. Lastly is the main method that ties everything together and mainly outprints the differenct fucntions for user input!
